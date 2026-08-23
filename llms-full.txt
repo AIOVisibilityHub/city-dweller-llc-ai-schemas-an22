@@ -18,7 +18,7 @@ Package contents:
 - [canonical] City Dweller, LLC — canonical website — https://citydweller.aiovisibility.net
 - [ai-data-hub] City Dweller, LLC — AI Data Hub — https://citydweller.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/city-dweller-llc-ai-schemas-an22
-- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/city-dweller-llc-ai-schemas-an22/ai-data.html
+- [mirror-pages] GitHub — AI Data Hub mirror — http://citydweller.aiovisibility.net/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
