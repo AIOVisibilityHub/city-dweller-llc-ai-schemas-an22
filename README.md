@@ -10,13 +10,13 @@ Canonical AI Data Package for City Dweller, LLC.
 
 ## Stats
 - 6655 faqs
+- 13 reviews
 - 7 services
 - 441 webpages
-- 2 personnel
 - 1 locations
+- 2 personnel
 - 1 organization
-- 8 reviews
-- **7116** total
+- **7121** total
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] City Dweller, LLC — canonical website — https://citydweller.aiovisibility.net
@@ -7168,9 +7168,13 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`team-members.html`](./team-members.html) — LLM-optimized public page
 - [`web-pages.html`](./web-pages.html) — LLM-optimized public page
 
-### Reviews (9)
+### Reviews (14)
 - [`reviews/aggregate-rating.json`](./reviews/aggregate-rating.json) — schema
 - [`reviews/anonymous-1-review.json`](./reviews/anonymous-1-review.json) — schema
+- [`reviews/anonymous-10-review.json`](./reviews/anonymous-10-review.json) — schema
+- [`reviews/anonymous-11-review.json`](./reviews/anonymous-11-review.json) — schema
+- [`reviews/anonymous-12-review.json`](./reviews/anonymous-12-review.json) — schema
+- [`reviews/anonymous-13-review.json`](./reviews/anonymous-13-review.json) — schema
 - [`reviews/anonymous-2-review.json`](./reviews/anonymous-2-review.json) — schema
 - [`reviews/anonymous-3-review.json`](./reviews/anonymous-3-review.json) — schema
 - [`reviews/anonymous-4-review.json`](./reviews/anonymous-4-review.json) — schema
@@ -7178,5 +7182,6 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`reviews/anonymous-6-review.json`](./reviews/anonymous-6-review.json) — schema
 - [`reviews/anonymous-7-review.json`](./reviews/anonymous-7-review.json) — schema
 - [`reviews/anonymous-8-review.json`](./reviews/anonymous-8-review.json) — schema
+- [`reviews/anonymous-9-review.json`](./reviews/anonymous-9-review.json) — schema
 
 

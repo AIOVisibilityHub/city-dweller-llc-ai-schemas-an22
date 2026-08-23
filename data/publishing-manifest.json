@@ -1,9 +1,10 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-22T23:04:29.273Z",
+  "generatedAt": "2026-08-23T18:31:16.267Z",
   "client": {
     "name": "City Dweller, LLC",
     "canonicalUrl": "https://citydweller.aiovisibility.net",
+    "primaryWebsiteUrl": "http://bayareacitydweller.com",
     "pagesUrl": "https://citydweller.aiovisibility.net",
     "phone": "650-532-5858",
     "email": "info@bayareacitydweller.com",
@@ -498,24 +499,24 @@
     ]
   },
   "package": {
-    "totalFiles": 7138,
-    "totalBytes": 22072471,
+    "totalFiles": 7143,
+    "totalBytes": 22126849,
     "stats": {
+      "qna": 0,
       "faqs": 6655,
-      "helpArticles": 0,
+      "press": 0,
+      "total": 7121,
+      "awards": 0,
+      "reviews": 13,
+      "products": 0,
+      "research": 0,
       "services": 7,
       "webpages": 441,
-      "personnel": 2,
-      "products": 0,
       "locations": 1,
-      "awards": 0,
+      "personnel": 2,
       "caseStudies": 0,
-      "organization": 1,
-      "press": 0,
-      "reviews": 8,
-      "qna": 0,
-      "research": 0,
-      "total": 7116
+      "helpArticles": 0,
+      "organization": 1
     }
   },
   "entrypoints": {
@@ -36118,50 +36119,75 @@
         "purpose": "schema"
       },
       {
+        "path": "reviews/anonymous-9-review.json",
+        "bytes": 523,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/anonymous-10-review.json",
+        "bytes": 490,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/anonymous-11-review.json",
+        "bytes": 530,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/anonymous-12-review.json",
+        "bytes": 539,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/anonymous-13-review.json",
+        "bytes": 487,
+        "purpose": "schema"
+      },
+      {
         "path": "reviews/aggregate-rating.json",
-        "bytes": 222,
+        "bytes": 223,
         "purpose": "schema"
       }
     ],
     "public": [
       {
         "path": "index.html",
-        "bytes": 7879,
+        "bytes": 17146,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 17192,
+        "bytes": 22229,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 132483,
+        "bytes": 137768,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 15121,
+        "bytes": 24410,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 8602,
+        "bytes": 13515,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 4294915,
+        "bytes": 4299852,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 10429,
+        "bytes": 15330,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 1312374,
+        "bytes": 1317239,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -36193,37 +36219,37 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1607,
+        "bytes": 1665,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 3287184,
+        "bytes": 3288693,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 890507,
+        "bytes": 890928,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 890507,
+        "bytes": 890928,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 14253,
+        "bytes": 14254,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 1168167,
+        "bytes": 1168597,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 954356,
+        "bytes": 954830,
         "purpose": "AI sitemap"
       },
       {

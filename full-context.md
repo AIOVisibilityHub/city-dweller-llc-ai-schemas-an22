@@ -1,19 +1,19 @@
 # City Dweller, LLC — Full AI Context
 
 **Canonical URL:** https://citydweller.aiovisibility.net
-**Generated:** 2026-08-22
+**Generated:** 2026-08-23
 
 ## Overview
 City Dweller, LLC publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
 
 ## Package Contents
 - **6655** faqs
+- **13** reviews
 - **7** services
 - **441** webpages
-- **2** personnel
 - **1** locations
+- **2** personnel
 - **1** organization
-- **8** reviews
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] City Dweller, LLC — canonical website — https://citydweller.aiovisibility.net
