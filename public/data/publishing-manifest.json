@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-23T19:07:48.844Z",
+  "generatedAt": "2026-08-23T19:08:27.930Z",
   "client": {
     "name": "City Dweller, LLC",
     "canonicalUrl": "https://citydweller.aiovisibility.net",
@@ -500,7 +500,7 @@
   },
   "package": {
     "totalFiles": 7143,
-    "totalBytes": 22126570,
+    "totalBytes": 22086855,
     "stats": {
       "qna": 0,
       "faqs": 6655,
@@ -36152,42 +36152,42 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 17146,
+        "bytes": 12017,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 22229,
+        "bytes": 17220,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 137768,
+        "bytes": 132510,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 24410,
+        "bytes": 19599,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 13515,
+        "bytes": 8629,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 4299852,
+        "bytes": 4294942,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 15330,
+        "bytes": 10456,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 1317239,
+        "bytes": 1312401,
         "purpose": "LLM-optimized public page"
       }
     ],
