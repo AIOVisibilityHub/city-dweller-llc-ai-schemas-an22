@@ -4,41 +4,96 @@
   "@context": "https://schema.org",
   "jobTitle": "Team Member",
   "worksFor": {
-    "url": "http://bayareacitydweller.com",
+    "url": "http://bayareacitydweller.com/",
     "name": "City Dweller, LLC",
     "@type": "Organization"
   },
   "telephone": "650-532-5858",
   "areaServed": [
     {
-      "name": "Bay Area",
+      "name": "Bay Area ",
       "@type": "City"
     },
     {
-      "name": "San Francisco Bay Area",
+      "name": "Pacifica",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "San Bruno",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "Colma",
+      "@type": "City"
+    },
+    {
+      "name": "Millbrae",
+      "@type": "City"
+    },
+    {
+      "name": "San Mateo",
+      "@type": "City"
+    },
+    {
+      "name": "Burlingame",
+      "@type": "City"
+    },
+    {
+      "name": "Half Moon Bay",
+      "@type": "City"
+    },
+    {
+      "name": "Montara",
+      "@type": "City"
+    },
+    {
+      "name": "El Granada",
+      "@type": "City"
+    },
+    {
+      "name": "Belmont",
+      "@type": "City"
+    },
+    {
+      "name": "San Carlos",
+      "@type": "City"
+    },
+    {
+      "name": "Redwood City",
+      "@type": "City"
+    },
+    {
+      "name": "Hillsborough",
+      "@type": "City"
+    },
+    {
+      "name": "Foster City",
+      "@type": "City"
+    },
+    {
+      "name": "Menlo Park",
+      "@type": "City"
+    },
+    {
+      "name": "Atherton",
+      "@type": "City"
+    },
+    {
+      "name": "Palo Alto",
       "@type": "City"
     }
   ],
-  "knowsAbout": [
-    "General contracting",
-    "home remodeling",
-    "kitchen remodeling",
-    "bathroom remodeling",
-    "door installation",
-    "sliding glass door installation",
-    "window installation",
-    "siding",
-    "flooring",
-    "handyman repairs",
-    "Home Improvement",
-    "Renovation",
-    "Remodeling"
-  ],
-  "description": "Pacifica-based general contractor with more than a decade of industry experience, known for a hands-on approach and for learning each client’s remodeling goals\",\"General contracting, home remodeling, kitchen remodeling, bathroom remodeling, door installation, sliding glass door installation, window installation, siding, flooring, handyman repairs",
-  "hasCredential": [
-    {
-      "@type": "EducationalOccupationalCredential",
-      "credentialCategory": "License #California contractor license #981601"
-    }
-  ]
+  "description": "Pacifica-based general contractor with more than a decade of industry experience, known for a hands-on approach and for learning each client’s remodeling goals\",\"General contracting, home remodeling, kitchen remodeling, bathroom remodeling, door installation, sliding glass door installation, window installation, siding, flooring, handyman repairs"
 }
