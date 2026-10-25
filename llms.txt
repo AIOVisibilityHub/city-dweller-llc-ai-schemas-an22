@@ -17,6 +17,22 @@ City Dweller, LLC publishes structured AI-readable data for discovery and recomm
 - [ai-data-hub] City Dweller, LLC — AI Data Hub — https://citydweller.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/city-dweller-llc-ai-schemas-an22
 - [mirror-pages] GitHub — AI Data Hub mirror — http://citydweller.aiovisibility.net/ai-data.html
+- [same-as] City Dweller, LLC on aiovisibility.net — https://aiovisibility.net/profiles/city-dweller-llc
+- [same-as] City Dweller, LLC on nextdoor.com — https://nextdoor.com/pages/city-dweller-pacifica-ca-1
+- [same-as] City Dweller, LLC on city-dweller-llc-ai-schemas-h6q5-a497e1.gitlab.io — https://city-dweller-llc-ai-schemas-h6q5-a497e1.gitlab.io
+- [same-as] City Dweller, LLC on kaggle.com — https://www.kaggle.com/datasets/aiovisibilityhub/city-dweller-llc-ai-schemas
+- [same-as] City Dweller, LLC on linkedin.com — https://www.linkedin.com/in/david-gohn-1791a413
+- [same-as] City Dweller, LLC on yelp.com — https://www.yelp.com/biz/city-dweller-pacifica-5
+- [same-as] City Dweller, LLC on mapquest.com — https://www.mapquest.com/us/california/city-dweller-360135383
+- [same-as] City Dweller, LLC on local.yahoo.com — https://local.yahoo.com/info-169419265-city-dweller-pacifica
+- [same-as] City Dweller, LLC on about.me — https://about.me/bayareacitydweller
+- [same-as] City Dweller, LLC on bayareacitydweller.weebly.com — https://bayareacitydweller.weebly.com
+- [same-as] City Dweller, LLC on citylocalpro.com — https://citylocalpro.com/biz/city-dweller
+- [same-as] City Dweller, LLC on osogbo.com — https://www.osogbo.com/home-services-and-tradesmen/city-dweller-llc
+- [same-as] City Dweller, LLC on expertise.com — https://www.expertise.com/home-improvement/remodeling/california/san-francisco
+- [same-as] City Dweller, LLC on townplanner.com — https://www.townplanner.com/pacifica/ca/business
+- [same-as] City Dweller, LLC on zoominfo.com — https://www.zoominfo.com/p/David-Gohn/-923725733
+- [same-as] City Dweller, LLC on zenodo.org — https://zenodo.org/records/23629416
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
