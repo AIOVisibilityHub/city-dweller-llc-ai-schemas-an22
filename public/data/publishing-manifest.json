@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-25T00:27:37.335Z",
+  "generatedAt": "2026-10-25T00:28:03.592Z",
   "client": {
     "name": "City Dweller, LLC",
     "canonicalUrl": "https://citydweller.aiovisibility.net",
@@ -500,7 +500,7 @@
   },
   "package": {
     "totalFiles": 6701,
-    "totalBytes": 20836718,
+    "totalBytes": 20871394,
     "stats": {
       "faqs": 6655,
       "helpArticles": 0,
@@ -33947,37 +33947,37 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 11517,
+        "bytes": 16644,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 89627,
+        "bytes": 94614,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 358736,
+        "bytes": 363925,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 21410,
+        "bytes": 26195,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 10440,
+        "bytes": 15300,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 4296747,
+        "bytes": 4301637,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 11574,
+        "bytes": 16412,
         "purpose": "LLM-optimized public page"
       }
     ],
